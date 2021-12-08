@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.cutiedeng.quicksubmit4oj.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cutiedeng.quicksubmit4oj.MyBundle
 
 class MyProjectService(project: Project) {
 
